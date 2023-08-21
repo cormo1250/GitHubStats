@@ -5,3 +5,5 @@ Perfectionism and professionalism are the basis of my approach to work.
 There may not be a perfect sofware, but you have to strive for it.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cormo1250)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
