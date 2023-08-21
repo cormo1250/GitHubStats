@@ -6,3 +6,5 @@ There may not be a perfect sofware, but you have to strive for it.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cormo1250&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/cormo1250/github-readme-stats)
